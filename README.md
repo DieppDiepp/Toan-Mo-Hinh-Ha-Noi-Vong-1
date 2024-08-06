@@ -1,6 +1,7 @@
 # MathModelChallengeSparkle
 Toán Mô hình Hà Nội là dự án quy mô toàn quốc về nghiên cứu và phát triển các ứng dụng của Toán học
-Đề: Sắp xếp ca trực cho các nhân viên y tế trong 1 bệnh viện đảm bảo về đúng và đủ chức vị của các bác sĩ trong 1 khoa trực.
+
+Đề thi năm 2024 bảng Đại Học: Sắp xếp ca trực cho các nhân viên y tế trong 1 bệnh viện đảm bảo về đúng và đủ chức vị của các bác sĩ trong 1 khoa trực.
 Mục Tiêu: Tối ưu hóa phân công lịch làm việc để đảm bảo sự phân phối công việc công bằng
 cho tất cả các bác sĩ và điều dưỡng, đồng thời đáp ứng các yêu cầu về đa dạng khoa
 và điểm thâm niên của các nhân viên trong một ca trực.
