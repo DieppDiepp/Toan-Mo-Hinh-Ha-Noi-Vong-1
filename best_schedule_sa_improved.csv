@@ -1,0 +1,63 @@
+Doc1_Name,Doc1_Department,Doc1_Point,Doc2_Name,Doc2_Department,Doc2_Point,Nurse1_Name,Nurse1_Department,Nurse1_Point,Nurse2_Name,Nurse2_Department,Nurse2_Point
+Bắc,Emergency,9,Thắng,Internal,9,Thành,Clinical,22,An,Internal,2
+Xuân,Emergency,18,Minh Phương,Clinical,16,Dung,Emergency,5,Minh,Emergency,4
+Linh,External,13,Thắng,Internal,9,Tơ,Internal,7,Len,Emergency,9
+Sơn,Internal,8,Giang,External,10,Thành,Clinical,22,Hương,Clinical,2
+Trang,External,15,Dung,Clinical,7,Kim Anh,Clinical,6,Huệ,External,12
+Ngân Hà,External,10,Hùng,Emergency,2,Yên,External,16,Huệ,External,12
+Ngân Hà,External,10,Hà,Clinical,3,Linh,Internal,3,Thành,Clinical,22
+Bá Tuấn,Clinical,16,Dũng,Emergency,6,Chí Đức,External,1,Long,Emergency,18
+Bằng,Clinical,19,Vân Anh,Emergency,11,Huệ,External,12,Linh,Internal,3
+Hường,Internal,3,Hương,Clinical,5,Ngân,Clinical,10,Thành,Clinical,22
+Hường,Internal,3,Xuân,Clinical,17,Chi,Clinical,3,Nam,External,18
+Sơn,Internal,8,Tâm,Clinical,14,Huệ,External,12,Huệ,Internal,8
+Điệp,Clinical,12,Út,Emergency,13,Tiến,Internal,7,Dương,Internal,10
+Quân,Emergency,1,Linh,Clinical,12,Ngọc,Emergency,14,Thuận,Clinical,14
+Thủy,Emergency,11,Dung,Clinical,7,Thuận,External,15,Dương,Internal,10
+Thương,External,2,Hương,Clinical,5,Huyền,Clinical,21,Thuận,External,15
+Thương,External,2,Thắng,Internal,9,Thuận,External,15,Hưng,Clinical,15
+Thương,External,2,Hưng,Internal,4,Thuận,Clinical,14,Vượng,Clinical,19
+Thư,Internal,7,Vân Anh,Emergency,11,Dung,Emergency,5,Vượng,Clinical,19
+Thủy,Emergency,11,Tâm,Clinical,14,Thông,External,12,Minh,Emergency,4
+Bá Tuấn,Clinical,16,Gấm,External,15,Linh,Internal,3,Lương,Emergency,8
+Long,Emergency,5,Gấm,External,15,Ngân,Clinical,10,Huệ,External,12
+Thương,External,2,Út,Emergency,13,Dung,Emergency,5,Huyền,Clinical,21
+Thư,Internal,7,Út,Emergency,13,Huệ,External,12,Hoài ,External,9
+Bằng,Clinical,19,Phượng,External,1,Vượng,Clinical,19,Chi,Clinical,3
+Bắc,Emergency,9,Xuân,Clinical,17,Huệ,Internal,8,Lương,Emergency,8
+Long,Emergency,5,Thuận,External,8,Dũng,Internal,6,Thành,Clinical,22
+Giang,Clinical,14,Thuận,External,8,Đông,Clinical,11,Công,External,5
+Trang,External,15,Hùng,Emergency,2,Thuận,External,15,Len,Emergency,9
+Hường,Internal,3,Tâm,Clinical,14,Len,Emergency,9,Thuận,External,15
+Tuấn,External,4,Linh,Clinical,12,Quỳnh,Emergency,13,Huệ,External,12
+Bằng,Clinical,19,Dũng,Emergency,6,Len,Emergency,9,Kim Anh,Clinical,6
+Ngân Hà,External,10,Hương,Clinical,5,Tiến,Internal,7,Huyền,Internal,20
+Điệp,Clinical,12,Dũng,Emergency,6,Quỳnh,Emergency,13,Ngân,Clinical,10
+Bắc,Emergency,9,Giang,External,10,Dương,Internal,10,Khánh Linh,Emergency,13
+Thủy,Emergency,11,Minh Phương,Clinical,16,Tiến,Internal,7,Huệ,Internal,8
+Xuân,Emergency,18,Thuận,External,8,Thông,External,12,Anh,External,4
+Trang,External,15,Hùng,Emergency,2,Tuyến,Internal,16,Dương,Internal,10
+Sơn,Internal,8,Gấm,External,15,Phi,Emergency,17,Linh,Internal,3
+Tâm,Emergency,17,Hưng,Internal,4,Huyền,Internal,20,Hương,Clinical,2
+Thư,Internal,7,Dũng,Emergency,6,Thông,External,12,Sang,Emergency,17
+Điệp,Clinical,12,Hùng,Emergency,2,Thảo,Emergency,21,Dũng,Internal,6
+Thanh Hà,External,6,Minh Phương,Clinical,16,Công,External,5,Ngọc,Emergency,14
+Quân,Emergency,1,Minh Phương,Clinical,16,Khánh Linh,Emergency,13,Ngọc,Emergency,14
+Thanh Hà,External,6,Hương,Clinical,5,Ngân,Clinical,10,Thu Hằng,Clinical,20
+Tâm,Emergency,17,Hà,Clinical,3,Quỳnh,Emergency,13,Hoài ,External,9
+Tuấn,External,4,Vân Anh,Emergency,11,Ngọc,Emergency,14,Tuyến,Internal,16
+Giang,Clinical,14,Thắng,Internal,9,Thuận,External,15,Linh,Internal,3
+Thư,Internal,7,Giang,External,10,Tiến,Internal,7,Nam,External,18
+Tuấn,External,4,Xuân,Clinical,17,Khánh Linh,Emergency,13,Hoài ,External,9
+Xuân,Emergency,18,Phượng,External,1,Thuận,Clinical,14,Lương,Emergency,8
+Thanh Hà,External,6,Út,Emergency,13,Anh,External,4,Nam,External,18
+Linh,External,13,Hà,Clinical,3,Thuận,External,15,Đông,Clinical,11
+Quân,Emergency,1,Linh,Clinical,12,Thành,Clinical,22,Ngân,Clinical,10
+Giang,Clinical,14,Giang,External,10,Huyền,Internal,20,An,Internal,2
+Linh,External,13,Vân Anh,Emergency,11,Lương,Emergency,8,Ngân,Clinical,10
+Tuấn,External,4,Dung,Clinical,7,Vượng,Clinical,19,Thông,External,12
+Bá Tuấn,Clinical,16,Phượng,External,1,Huyền,Internal,20,Minh,Emergency,4
+Hường,Internal,3,Thuận,External,8,Dương,Internal,10,Huyền,Internal,20
+Tâm,Emergency,17,Hưng,Internal,4,Tuyến,Internal,16,An,Internal,2
+Sơn,Internal,8,Gấm,External,15,Tuyến,Internal,16,Hương,Clinical,2
+Long,Emergency,5,Xuân,Clinical,17,Oanh,Emergency,11,Len,Emergency,9
