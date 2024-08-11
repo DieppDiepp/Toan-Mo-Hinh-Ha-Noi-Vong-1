@@ -12,4 +12,5 @@ và điểm thâm niên của các nhân viên trong một ca trực.
 + Nguyễn Trương Ánh Trúc - Trường Đại Học Sư Phạm Kỹ Thuật Hồ Chí Minh - UTE
 
 File [MMC]De_Thi.pdf là đề thi Toán Mô Hình Bảng Sinh Viên năm 2024
+
 File [Sparkle]_TMH_V1.pdf là bài báo cáo của đội
